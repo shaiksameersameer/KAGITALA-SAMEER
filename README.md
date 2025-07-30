@@ -9,7 +9,7 @@
 
 ### 💡 About Me
 
-- 🎓 CSSE Graduate – AI Specialization (Parul University, 2025)
+- 🎓 CSE Graduate – AI Specialization (Parul University, 2025)
 - 🔭 Building: **SkillVerse** – AI-powered Resume Matcher with PDF report, chart & skill suggestions  
 - 🧠 Currently Learning: Python Backend APIs, FastAPI, DevOps, Docker  
 - 🎯 Career Goal: Full Stack / Python Developer by **Jan 2026** (Target ₹12 LPA in Hyderabad)  
