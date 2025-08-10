@@ -22,7 +22,7 @@
 | Project | Tech Stack | Live Link |
 |--------|------------|-----------|
 | ⭐ **SkillVerse** – Resume vs JD Matcher (PDF + Pie Chart + Suggestions) | Flask, TailwindCSS, Chart.js, PyMuPDF | [🌐 Live Demo](https://skillverse-exc0.onrender.com) |
-| 💳 **PayXpress – Secure Payment Gateway App** | React.js, Node.js, Express.js, MongoDB, Razorpay API | 🌐 [Live Demo](https://689845539ac03700081d5c28--candid-bonbon-185e3b.netlify.app/) |
+| 💳 **PayXpress – Secure Payment Gateway App** | React.js, Node.js, Express.js, MongoDB, Razorpay API | 🌐 [Live Demo](http://candid-bonbon-185e3b.netlify.app) |
 
 ---
 
