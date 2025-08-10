@@ -36,6 +36,6 @@
 Connect With Me
 📧 Email: shaiksameersameer@gmail.com
 
-💼 LinkedIn: linkedin.com/in/shaiksameersameer
+💼 LinkedIn: linkedin.com/in/shaiksameersameer(https://www.linkedin.com/in/sameerkagitala/) 
 
-💻 GitHub: github.com/shaiksameersameer
+💻 GitHub: github.com/shaiksameersameer(https://github.com/shaiksameersameer/)
