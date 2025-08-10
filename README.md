@@ -22,18 +22,16 @@
 | Project | Tech Stack | Live Link |
 |--------|------------|-----------|
 | ⭐ **SkillVerse** – Resume vs JD Matcher (PDF + Pie Chart + Suggestions) | Flask, TailwindCSS, Chart.js, PyMuPDF | [🌐 Live Demo](https://skillverse-exc0.onrender.com) |
-| More Projects Coming Soon... | React, FastAPI, MongoDB | Stay tuned... |
+| 💳 **PayXpress – Secure Payment Gateway App** | React.js, Node.js, Express.js, MongoDB, Razorpay API | 🌐 [Live Demo](https://689845539ac03700081d5c28--candid-bonbon-185e3b.netlify.app/) |
 
 ---
 
-### 🛠️ Tech Stack
-
-
-Languages     : Python, JavaScript, HTML5, CSS3
-Frameworks    : Flask, FastAPI, React.js (Learning), TailwindCSS
-Databases     : PostgreSQL, MySQL
-Tools & DevOps: Git, GitHub, Render, VS Code, Docker (Basics)
-Libraries     : Chart.js, PyMuPDF, xhtml2pdf 
+## 🛠️ Tech Stack
+**Languages:** Python, JavaScript, HTML5, CSS3  
+**Frameworks:** Flask, FastAPI, React.js (Learning), TailwindCSS  
+**Databases:** PostgreSQL, MySQL, MongoDB  
+**Tools & DevOps:** Git, GitHub, Render, Netlify, VS Code, Docker (Basics)  
+**Libraries & APIs:** Chart.js, PyMuPDF, xhtml2pdf, Razorpay API  
 
 Connect With Me
 📧 Email: shaiksameersameer@gmail.com
